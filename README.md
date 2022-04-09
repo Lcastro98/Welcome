@@ -19,7 +19,7 @@ Es necesario tener instaladas estas herramientas antes de ejecutar la aplicació
 
 Clone el repositorio en su computador:
 ```plain
-git clone https://github.com/Lcastro98/Contact.git
+git clone https://github.com/Lcastro98/Welcome.git
 ```
 Abra el archivo en Intellij IDEA Ultimate y ejecute el programa.
 
