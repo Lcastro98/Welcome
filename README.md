@@ -37,7 +37,7 @@ Próximamente nos comunicaremos con usted al numero 3056984587.
 
 Feliz día
 
-![alt text](https://github.com/Lcastro98/Welcome/blob/main/consola.JPG?raw=true)
+![alt text](https://github.com/Lcastro98/Welcome/blob/master/consola.JPG?raw=true)
 
 ---
 ⌨️ con ❤️ por [Lorena Castro](https://github.com/Lcastro98) ✌
